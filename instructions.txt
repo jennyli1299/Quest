@@ -1,0 +1,28 @@
+The attached specification simulates a role playing game of skill.
+
+Implement the game using the principles and practices of Object Oriented design as presented and discussed in lecture. You are free to add more functionality and to make reasonable assumptions as far as they are sound and properly reasoned in your readme file. 
+
+The objective of this assignment is to identify and represent correct relationships between classes while maintaining best practices in programming and OO design. 
+
+Our main focus in grading will be on your OO structure and overall design, as well as how well you implemented those relationships. We will not be as focused on how strictly you followed the rules of the game. The rules are there just to make the whole experience more realistic, meaningful and enjoyable. Feel free to be creative with your own rules.
+
+We will be demonstrating a working verson of the game during lecture this week to help clarify the requirements of the game. In addition to the specification the attached zip file contains the specifics for the heroes, monsters, weapons, armors, potions and spells. You are always welcome to use your imagination and add more or use your own naming.
+
+Please note that this is not a group assignment. Your design and your implementation should be your own. 
+
+Your program will be evaluated as follows:
+	- *Object Design, with an emphasis on: 
+		- scalability*
+		- extendibility*
+	- Implementation, with a specific emphasis on: 
+		- readability
+		- best practices
+	- Usability
+
+Deliverables:
+	- Read me text file
+	- Java source code
+
+*A word advice.* Begin by understanding the game. The specification is long and wordy but it is up to you to make sure you flesh out the requirements. We will be doing an in class demonstation this week, but be prepared with your questions to ensure you have a solid understanding of the requirements.
+
+Have fun and Have a great adventure!!!
